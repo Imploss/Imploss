@@ -1,3 +1,3 @@
-- 👋 Hey there, my name is Lightsaber, or you could call me Imploss.
+- 👋 Hey there, my name is Imploss, or you could call me Lightsaber.
 - 🌱 I’m currently learning Java & Spigot Development.
 - 📫 You can reach me through Discord! (Lightsaber#0001)
